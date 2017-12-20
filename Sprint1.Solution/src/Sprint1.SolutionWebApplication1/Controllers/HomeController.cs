@@ -12,6 +12,7 @@ namespace Sprint1.SolutionWebApplication1.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
 
